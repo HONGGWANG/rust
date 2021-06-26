@@ -1,4 +1,4 @@
-# Rust farm crossbreeding calculator site
+# Rust farm genetic crossbreeding calculator site
 
 http://rustfarm.gearhostpreview.com/
 
